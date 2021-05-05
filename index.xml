@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Dhrubojyoti Chanda</title>
+    <link>https://dchanda21.github.io/Dhruv_Portfolio/</link>
+    <description>Recent content in Portfolio on Dhrubojyoti Chanda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://dchanda21.github.io/Dhruv_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: House Price Prediction</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-1/</guid>
+      <description> Preprocessed House Price Data by performing feature engineering on 80 features by handling missing values, temporal variables, and rare labeled categorical variables Performed feature selection by applying Lasso regression model Data analysis phases:  Data Analysis phases:
+ Feature Engineering Feature Selection The main aim of this project is to predict the house price based on various features . only EDA is performed Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Taxi Demand Prediction</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-2/</guid>
+      <description>Data Information Get the data from : https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page (2016 data) The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC)
+In the given notebook we are considering the yellow taxis for the time period between Jan - Mar 2015 &amp;amp; Jan - Mar 2016
+Yellow Taxi: Yellow Medallion Taxicabs These are the famous NYC yellow taxis that provide transportation exclusively through street-hails.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: 3D-Printing</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-3/</guid>
+      <description>Designed and printed parts for DIY 3D Scanner (two-line laser) using STL files along with calibration Performed a comparative study on performance of handheld laser, two-line laser, and photogrammetry as a 3D scanner Observed the scan time for Handheld laser as 10mins, Two-line laser as 22mins and photogrammetry as 1hr 12mins • Scanning accuracy for Photogrammetry is the best as it has sophisticated image stabilizing inbuilt software    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Simulation model- Discrete Event Simulation</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-4/</guid>
+      <description> Collected real time data and analyzed the data using input analyzer (ARENA) and considered Beta distribution as the best fit Decreased the counter waiting time by 96.72% and number of people waiting by 98% by adding one extra billing counter     </description>
+    </item>
+    
+    <item>
+      <title>Project 5:Flight-Fare-Prediction </title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-5/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-5/</guid>
+      <description>Created a ML model to predict domestic flight price in India after performing feature engineering and feature selection • Performed One-Hot Encoding and developed Random forest model for prediction with R2-score of 0.81 and deployed the model using Flask API
+  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Time-Series-and-Forecasting</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/post/project-6/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/post/project-6/</guid>
+      <description>Analyzed Stock market data (Time Series) of Volkswagen, Porsche and BMW before and after Volkswagen buyout of Porsche Performed correlation and fit SARIMAX (0,1,0) model for Volkswagen and Porsche and fit GARCH (1,1) model to see volatility trends before and after buyout time period    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dchanda21.github.io/Dhruv_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dchanda21.github.io/Dhruv_Portfolio/contact/</guid>
+      <description>   Platform URL     LinkedIn: https://www.linkedin.com/in/dhrubojyoti-chanda-650042119/   GitHub: https://github.com/dchanda21   Tableau-public: https://public.tableau.com/profile/dhrubojyoti.chanda#!/?newProfile=&amp;amp;activeTab=0    </description>
+    </item>
+    
+  </channel>
+</rss>
